@@ -13,3 +13,4 @@ My name is Alex Grimes and I'm a software developer/DevOps engineer. I'm from th
 ![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Development-Professional-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+# Other then codeing i also spend my time 3D printing/modeling and building cool physical things as well 
