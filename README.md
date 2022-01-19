@@ -3,5 +3,4 @@ Hello, I am @Alex-Grimes
 - I’m currently learning ... A little bit of everything im a life long learner im already somewhat proficent in Python Java and JS (by proficent i can make some things work like i want to sometimes)Im always looking to impprove my stack though 
 -How to reach me ... You can reach me via message here on github or on my Linkedin look forword to hearing from some of you!
 
-Feel Free to checkout my Personal website as well http://157.245.249.37/ 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
