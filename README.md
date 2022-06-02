@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!
 
 I'm a software developer from the United States, I am just looking to make some cool tech and learn from the community in the process. 
 
