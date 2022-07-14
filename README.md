@@ -13,4 +13,4 @@ I'm a software developer from the United States, I am just looking to make some 
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Development-Professional-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
