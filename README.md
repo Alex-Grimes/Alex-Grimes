@@ -2,9 +2,9 @@
 
 I'm a software developer from the United States, I am just looking to make some cool tech and learn from the community in the process. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Grimes&layout=compact&bg_color=1d1f21&color=2bbc8a&hide=VBA,HTML,Java,CSS,C,CPP,python,powershell,TeX&text_color=c9cacc" style="max-width: 100%;">
+<img align="top" hspace="60" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Grimes&layout=compact&bg_color=1d1f21&color=2bbc8a&hide=VBA,HTML,Java,CSS,C,CPP,python,powershell,TeX&text_color=c9cacc"> ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Grimes&show_icons=true&theme=dracula)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Grimes&show_icons=true&theme=dracula)
+
 
 
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
