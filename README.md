@@ -2,7 +2,7 @@
 
 I'm a software developer from the United States, I am just looking to make some cool tech and learn from the community in the process. 
 
-<img align="top" hspace="60" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Grimes&layout=compact&bg_color=1d1f21&color=2bbc8a&hide=VBA,HTML,Java,CSS,C,CPP,python,powershell,TeX&text_color=c9cacc">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Grimes&layout=compact&bg_color=1d1f21&color=2bbc8a&hide=VBA,HTML,Java,CSS,C,CPP,python,powershell,TeX&text_color=c9cacc">
 
 
 
