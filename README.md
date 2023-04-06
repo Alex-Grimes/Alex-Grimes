@@ -1,6 +1,6 @@
 # Hello, folks!
 
-Welcome to my GitHub profile! I'm a software engineer with a passion for security software and Web based applications. I love building tools and applications that help keep data and systems secure and . On my profile, you'll find repositories containing some of my personal projects as well as contributions to open-source. Feel free to explore and contribute to any of my projects, or contact me if you have any questions or collaboration ideas. Thanks for visiting!
+Welcome to my GitHub profile! I'm a software engineer with a passion for security software and Web based applications. I love building tools and applications that help keep data and systems secure. On my profile, you'll find repositories containing some of my personal projects as well as contributions to open-source. Feel free to explore and contribute to any of my projects, or contact me if you have any questions or collaboration ideas. Thanks for visiting!
 
 My Most Used Languages     |  What I'm Listening To!
 :-------------------------:|:-------------------------:
