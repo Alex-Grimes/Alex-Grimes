@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for securit
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="NodeJS" alt="golang" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="AWS" alt="ruby" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" **alt="rails" width="80" height="80"/>
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="rails" **alt="rails" width="80" height="80"/>-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="80" height="80"/>
 </div>
 <hr>
