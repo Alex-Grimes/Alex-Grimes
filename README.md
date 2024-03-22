@@ -28,9 +28,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for securit
 
 </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<img align="center" width=75% src=https://profile-counter.glitch.me/{Alex-Grimes]/count.svg />
-
+<!-- <img align="center" width=75% src=https://profile-counter.glitch.me/{Alex-Grimes]/count.svg /> -->
 
 
 
