@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a software engineer with a passion for security software and Web based applications. I love building tools and applications that help keep data and systems secure. On my profile, you'll find repositories containing some of my personal projects as well as contributions to open-source. Feel free to explore and contribute to any of my projects, or contact me if you have any questions or collaboration ideas. Thanks for visiting!
 <hr>
 
-<img src="https://github.com/Alex-Grimes/Alex-Grimes/blob/main/wp8149074-minimalist-cyberpunk-hd-wallpapers.jpg">
+<img src="https://github.com/Alex-Grimes/Alex-Grimes/blob/main/wp8237183-anime-jdm-wallpapers.png">
 
 # Some of my favorite tech
 <div>
