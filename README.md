@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for Web bas
 
 <img src="https://github.com/Alex-Grimes/Alex-Grimes/blob/main/wp8237183-anime-jdm-wallpapers.png">
 
-# Some of my favorite tech
+<!--# Some of my favorite tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="80" height="80"/>&nbsp;
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for Web bas
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="AWS" alt="ruby" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" **alt="kotlin" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="80" height="80"/>
-</div>
-<hr>
+</div> -->
+ <hr>
 
 # What I am doing 
 <div>
