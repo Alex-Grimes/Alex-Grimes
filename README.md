@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for Web bas
 
 # What I am doing 
 <div>
-<img align="left" width="45%" src="https://readme-stats-alex-git-main-alex-grimes.vercel.app/api/top-langs/?username=Alex-Grimes&exclude_repo=readme-stats&langs_count=6&layout=compact&theme=tokyonight&hide=VBA,HTML,CSS,vue,Javascript,powershell,astro,Postscript,scss,C,C%2B%2B,python,java,nsis,makefile,TeX&text_color=c9cacc&size_weight=0&count_weight=1"> 
+<img align="left" width="45%" src="https://readme-stats-alex-git-main-alex-grimes.vercel.app/api/top-langs/?username=Alex-Grimes&exclude_repo=readme-stats,crypto-calculator,Ruby-crypto-calculator&langs_count=6&layout=compact&theme=tokyonight&hide=VBA,HTML,CSS,vue,Javascript,powershell,astro,Postscript,scss,C,C%2B%2B,python,java,nsis,makefile,TeX&text_color=c9cacc"> 
 <img align="right" width="45%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=tokyonight">
 
 <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=31kgookzmvq7yanoflay6aoimnha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false&" width="45%">-->
