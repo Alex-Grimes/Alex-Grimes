@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for Web bas
 
 # What I am doing 
 <div>
-<img align="left" width="45%" src="https://github-readme-stats-rho-ten-42.vercel.app/api/top-langs/?username=Alex-Grimes&size_weight=0.5&count_weight=0.5&exclude_repo=readme-stats,crypto-calculator,Ruby-crypto-calculator,Private-work,qwik-jokes,cs470,cs470-lafs-api,cs470-lafs-web,cs465,cs350,cs405&langs_count=6&theme=tokyonight&hide=VBA,vue,HTML,CSS,Javascript,powershell,astro,Postscript,mdx,shell,ejs,dockerfile,handlebars,scss,C,C%2B%2B,python,java,nsis,makefile,TeX&text_color=c9cacc"> 
+<img align="left" width="45%" src="https://github-readme-stats-rho-ten-42.vercel.app/api/top-langs/?username=Alex-Grimes&size_weight=0.5&count_weight=0.5&exclude_repo=readme-stats,crypto-calculator,Ruby-crypto-calculator,Private-work,qwik-jokes,cs470,cs470-lafs-api,cs470-lafs-web,cs465,cs350,cs405&langs_count=6&theme=tokyonight&hide=VBA,vue,HTML,CSS,Javascript,powershell,astro,Postscript,mdx,shell,ejs,dockerfile,handlebars,scss,python,java,nsis,makefile,TeX&text_color=c9cacc"> 
   <div width="45%"></div>
 <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=31kgookzmvq7yanoflay6aoimnha&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false&" width="45%">-->
 
