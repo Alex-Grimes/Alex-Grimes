@@ -3,11 +3,11 @@
 # Hello, folks!
 
 Welcome to my GitHub profile! I'm a software engineer with a passion for Web based applications. I love working on FOSS. On my profile, you'll find repositories containing some of my personal projects as well as contributions to open-source. Feel free to explore and contribute to any of my projects, or contact me if you have any questions or collaboration ideas. Thanks for visiting!
-<hr>
+<!--<hr>
 
 <img src="https://github.com/Alex-Grimes/Alex-Grimes/blob/main/cyberdrone.jpg">
 
-<!--# Some of my favorite tech
+# Some of my favorite tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="80" height="80"/>&nbsp;
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a software engineer with a passion for Web bas
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="AWS" alt="ruby" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" **alt="kotlin" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="80" height="80"/>
-</div> -->
- <hr>
+</div> 
+ <hr> -->
 
 # What I am doing 
 <div>
